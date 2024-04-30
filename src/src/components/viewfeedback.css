@@ -1,0 +1,43 @@
+/* feedback.css */
+
+.feedback-container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Roboto, sans-serif; /* Use your preferred font */
+  }
+  
+  .feedback-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .feedback-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .feedback-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 15px;
+  }
+  
+  .feedback-course {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .feedback-text {
+    font-size: 16px;
+    font-family: 'Courier New', monospace; /* Change the font for feedback text */
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
